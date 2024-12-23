@@ -1,0 +1,8 @@
+[PATH]
+input_path=C:/Users/DOUNDKARSHUBHAMBALU/Downloads/twbfiles
+lookup_file_path=C:/Users/DOUNDKARSHUBHAMBALU/Downloads/sql_reports_analysis/tables schema details coe.xlsx
+#input_path=/Users/adarshs/Documents/GitHub/sql_reports_analysis/Input_issue/issuefiles
+# output_path = /Users/6J9028897/Library/CloudStorage/Box-Box/SQL_Queries/QBE Queries/Report Queries/10192023
+output_path=C:/Users/DOUNDKARSHUBHAMBALU/Downloads/output
+#log_file=/Users/adarshs/Downloads/Comparison.py/log_file.log
+
